@@ -1,0 +1,8 @@
+{
+    "godotTools.editorPath.godot3": "",
+    "godotTools.editorPath.godot4": "d:\\SteamLibrary\\steamapps\\common\\Godot Engine\\godot.windows.opt.tools.64.exe",
+    "godotTools.gdscriptLspServerProtocol": "tcp",
+    "godotTools.gdscriptLspServerPort": 6005,
+    "godotTools.sceneFileCompletion": true,
+    "godotTools.syntaxHighlighting": true
+}
